@@ -85,4 +85,5 @@ npx prisma migrate dev
 ## Generate types for ts
 
 npx prisma generate
+
 # nest-rest-api
